@@ -343,6 +343,7 @@ input[type="submit"]:active {
 .widget-area input[type="submit"]:active {
 	background: #f5f5f5;
 }
+
 input[type="checkbox"],
 input[type="radio"] {
 	box-sizing: border-box; /* Addresses box sizing set to content-box in IE8/9 */
@@ -532,6 +533,7 @@ body {
 	-ms-word-wrap: break-word;
 	word-wrap:     break-word;
 }
+
 body:after,
 body:before {
 	content: '';
